@@ -1,4 +1,11 @@
-Kick Funding API Using Django REST Framework (DRF), Integrated with Flutter Mobile Application 
+Kick Funding API Using Django REST Framework (DRF), Integrated with Flutter Mobile Application :
+
+
+## Demo  :
+
+
+https://github.com/kick-Funding-Application/.github/assets/93608128/0bbbdd70-11b8-46ce-86a0-a3b9a1035c97
+
 
 ## About the API:
 
@@ -96,3 +103,6 @@ After setting up your vertualenv just use one command to install all this requir
 
 - Don't Forget To Change My Specific Mail Provider (SendGrid Settings In settings.py)
 - Note That gstmp feature causes some errors so be carefull while using it for prevent yourself from banned from google (if you use it with google) but it works successfully with sendgrid.
+
+
+
