@@ -1,4 +1,4 @@
-Kick Funding API Using Django REST Framework (DRF)
+Kick Funding API Using Django REST Framework (DRF), Integrated with Flutter Mobile Application 
 
 ## About the API:
 
